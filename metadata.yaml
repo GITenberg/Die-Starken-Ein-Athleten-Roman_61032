@@ -1,5 +1,8 @@
 _repo: Die-Starken-Ein-Athleten-Roman_61032
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61032-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Dolorosa
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51229'
     url: http://www.gutenberg.org/2009/agents/51229
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61032#Die-Starken-Ein-Athleten-Roman
 gutenberg_issued: '2019-12-27'
 gutenberg_type: Text
 identifiers:
